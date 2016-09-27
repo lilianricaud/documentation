@@ -1,73 +1,131 @@
-# CONVENTION SIMPLIFIEE DE FORMATION PROFESSIONNELLE
-(Article L.6353-1)
+<!--
+
+---
+title: Convention de formation 
+description: Un modèle de convention de formation utilisé dans la CAE Kanopé. Ce modèle a été modifié avec un droit d'auteur amendé pour que les contenus co-créés par les stagiaires au cours de la formation soient explicitement sous licence libre afin de permettre leur réutilisation ultérieure. 
+image_url: 
+---
+
+-->
+
+> Un modèle de convention de formation utilisé dans la CAE Kanopé. Ce modèle a été modifié avec un droit d'auteur amendé pour que les contenus co-créés par les stagiaires au cours de la formation soient explicitement sous licence libre afin de permettre leur réutilisation ultérieure.
 
 
-## Entre les soussignés :
-
-1. Scopyleft enregistré sous le numéro de déclaration d'activité ……………………………………………………………………………. auprès de la
-Direction Régionale des Entreprises, de la Concurrence, de la Consommation, du Travail et de l’Emploi
-2.  …………………………………………………………………………………………………  représentée par ………………………………………………………………………………………………… est conclue la
-convention suivante, en application des dispositions du Livre III de la Sixième partie du Code du travail portant organisation de la formation professionnelle continue.
+# convention  de formation professionnelle continue n°[CODE UNIQUE]
 
 
-## Article 1er : Objet de la convention
+**Entre les soussignés :**
 
-L’organisme scopyleft organisera l’action de formation suivante :
+**1)**** KANOPE**, SCOP SARL, Innoparc – 6 rue Roger Salengro, 32000 AUCH - Siret RCS Auch n° 42922801800041 – n° Organisme de Formation : 73320023832
 
-- Intitulé du stage :…………………………………………………………………………………………………………
-- Objectifs :………………………………………………………………………………………………………………………………
-- Programme et méthodes : joints en annexe 1.
-- Type d’action de formation (article L.6313-1 du Code du travail ) :…………………………………………………………………………………………………………………………………………
-- Dates : …………………………………………………………………………………………………………………
-- Durée :……………………………………………………………………………………………………………………
-- Lieu :………………………………………………………………………………………………………………………
+représentée par M. Philippe LE BRETON, gérant, ci après dénommé le «  prestataire »
 
+**2)**  **[Structure]** , [ADRESSE DE LA STRUCTURE], représentée par M. [NOM DU REPRESENTANT], [TITRE], ci après dénommé le « client » est conclue la convention suivante, en application des dispositions du Livre IX du Code du travail portant organisation de la formation professionnelle continue dans le cadre de l&#39;Education permanente.
 
-## Article 2 : Effectif formé
+##Article 1 : Objet de la convention**
 
-L’organisme …………………………………………………………………………… accueillera les personnes suivantes (noms et fonctions : liste en annexe).
+En exécution de la présente convention, le client demande à Kanopé de réaliser les sessions de formations intitulées [INTITULE DE LA FORMATON]: &quot;Outils et bonnes pratiques pour collaborer en présence et à distance&quot;
 
+### Objectifs :
+  - Découvrir les nouveaux outils de communication et de collaboration en ligne.
+  - Sensibiliser aux nouvelles formes de travail collaboratif en ligne et à l&#39;animation de réseaux collaboratifs.
+  - Acquérir des bonnes pratiques de réunions pour travailler efficacement en présence et à distance.
 
-## Article 3 : Dispositions financières
+### Contenus :
 
-En contrepartie de cette action de formation, l’employeur s’acquittera des coûts suivants :
+[INDIQUER CONTENUS PEDAGOGIQUES]
 
-- Frais de formation : coût unitaire H.T ……………x…………… stagiaire(s) =……………  € HT.
-- Frais de restauration : coût unitaire H.T. ……………x…………… jour(s) x………… stagiaire(s) = …………… € H.T.
-- ET/ou hébergement
+- Panorama des nouveaux outils de communication et de collaboration en ligne
+  - Quels outils choisir pour quels usages
+  - Utiliser les outils de co-écriture
+  - Utiliser les outils de cartes heuristiques
 
-Soit un total de : ……………………………………… € H.T.
+- Animation des dispositifs coopératifs: freins et facilitateurs
+  - Bien démarrer un projet collaboratif
+  - La posture de l&#39;animateur de réseau collaboratif
+  - Les particularités du travail à distance
 
-Sommes versées par l’entreprise à titre d’acomptes (éventuellement) : ………………………………… € H.T.
-Sommes restant dues :……………………………………… € H.T.
-T.V.A. (…………………… %) : ………………………………………… €
-TOTAL GENERAL…………………………………… €
-
-
-## Article 4 : Modalités de règlement.
-
-Le paiement sera du à réception de la facture.
+- Bonnes pratiques de réunions pour collaborer en présence et à distance
+  - Bonnes pratiques pour des réunions productives
+  - Outils informatiques pour améliorer les réunions
+  - Découverte de formats co-créatifs innovants
 
 
-## Article 5 : Dédit ou abandon.
+### **Méthodes et moyens pédagogiques :**
 
-En cas de dédit par l’entreprise à moins de ………………… jours francs avant le début de l’action mentionnée à l’article 1, ou d’abandon en cours de formation par un ou plusieurs stagiaires, l’organisme remboursera sur le coût total, les sommes qu’il n’aura pas réellement dépensées ou engagées pour la réalisation de ladite action.
+[INDIQUER METHODES PEDAGOGIQUES]
+
+La formation se fait via une méthode active et participative, avec une alternance de présentations théoriques et de travaux pratiques, en présence et à distance en utilisant divers outils collaboratifs en ligne mais aussi diverses pratiques d&#39;animations.
+
+L&#39;apprentissage part des problématiques concrètes auxquelles sont confrontés les participants dans leur travail quotidien avec utilisation des formats d&#39;ateliers propices aux échanges et à un apprentissage mutuel.
+
+Un espace d&#39;apprentissage personnel et partagé contenant des supports de cours est mis à disposition des apprenants.
+
+Ces supports de cours sont enrichis par les apprenants en collaboration avec le formateur tout au long de la formation via un processus de co-construction.
+
+- **Formateurs :** Lilian RICAUD, Formateur - membre de Kanopé
+- **Durée / dates:** total de 3 jours, soit 21h réparties sur 5 demi-journées [dates exactes]
+- **Lieux** : [LIEU DE LA FORMATION]
+- **Effectif formé ** : [xx] personnes
+- **Modalités de suivi et appréciation des résultats :**
+- évaluation à chaud en fin de formation
+- suivi à distance par le formateur, via Internet pendant 6 mois.
+- évaluation à 6 mois
+
+## Article 2 : Dispositions financières**
+
+**a)** **Le client, en contrepartie des actions de formation réalisées, s&#39;engage à verser à l&#39;organisme**, une somme correspondant aux frais de formation de [xxx] € TTC par journée, ainsi qu&#39;une somme forfaitaire de [xxx] € TTC pour frais de transport et de séjours, soit un total de soit [xxx]€ TTC au total sur présentation de facture à la fin de la formation en présence.
+
+**b)** L&#39;organisme de formation, en contrepartie des sommes reçues, s&#39;engage à réaliser toutes les actions prévues dans le cadre de la présente convention ainsi qu&#39;à fournir tout document et pièce de nature à justifier la réalité et la validité des dépenses de formation engagées à ce titre.
 
 
-## Article 6 : Différends éventuels.
 
-Si une contestation ou un différend ne peuvent être réglés à l’amiable, le Tribunal de Montpellier sera seul compétent pour régler le litige.
+**c) Modalités de règlement :**
+
+Le paiement s&#39;effectuera à la présentation de la facture dans un délai de 10 jours.
+
+Paiement par virement libellé au nom de :
+
+[INFORMATIONS DE PAIEMENT, RIB]
+
+## Article 3 : Droits d&#39;auteur
+
+Le client accepte que les contenus co-produits au cours du processus soient placés sous licence libre Creative Commons -Attribution - Partage dans les Mêmes Conditions 3.0, France  (CC BY-SA 3.0 FR).
+
+## Article 4 : Dédit ou abandon
+
+En cas de résiliation de la présente convention par le client à moins de 8 jours francs avant le début d&#39;une des actions mentionnées à l&#39;annexe, l&#39;organisme retiendra sur le coût total, les sommes qu&#39;il aura réellement dépensées ou engagées pour la réalisation de l&#39;action.
+
+## Article 5 : Date d&#39;effet et durée de la convention
+
+La présente convention prend effet à compter à la date de signature pour une durée de 1 an.
+
+## Article 6 : Différends éventuels
+
+Si une contestation ou un différend ne peuvent être réglés à l&#39;amiable, le Tribunal de Auch sera seul compétent pour se prononcer sur  le litige.
+
+Fait en 3 exemplaires originaux à [LIEU] , le [DATE]
 
 
-Fait en double exemplaire, à …………………………………… le …………………………………………………
+
+Pour le client,                                            
+
+M. [NOM DU REPRESENTANT]                                           
+
+
+Pour l&#39;organisme de formation,
+M. [NOM DU GERANT], Gérant
+
+
+L&#39;Intervenant,
+
+M. [NOM DU FORMATEUR],
 
 
 
-Pour l’entreprise
-(nom et qualité du signataire)
+# Fichier source téléchargeable
 
+[LIEN DOC OU GOOGLE DOC]
 
-
-
-Pour l’organisme
-(nom et qualité du signataire)
+# Réutilisation 
+- CC-BY-SA Lilian Ricaud
